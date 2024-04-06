@@ -1,6 +1,6 @@
-# Mirror
+# Windowslover1234's TurboWarp Mirror
 
-https://mirror.turbowarp.xyz/
+windowslover1234.github.io/turbowarp-mirror/
 
 These are some scripts for making mirrors of [TurboWarp](https://turbowarp.org/).
 
